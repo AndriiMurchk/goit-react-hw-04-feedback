@@ -6,6 +6,7 @@ import Notification from "./Notification/Notification";
 import { Section } from "./Section/Section";
 import { Wraper } from "./App.Styled";
 
+
 const App = () => {
   const [good, setGood] = useState(0);
   const [neutral, setNeutral] = useState(0);
